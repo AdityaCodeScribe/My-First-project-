@@ -16,7 +16,7 @@ height:50px;
 width:100px;
 }
 .logo{
-  background-image:url("/amazon_logo.png");
+  background-image:url("amazon_logo.png");
   background-size:cover;
   height:50px;
   width:100px;
@@ -164,49 +164,49 @@ color:#007185;
 }
 .box2-image {
   height: 300px;
-  background-image: url("/20240127_192853.jpg");
+  background-image: url("20240127_192853.jpg");
   background-size: cover;
   margin-top: 1rem;
   margin-bottom: 3rem;
 }
 .box3-image {
   height: 300px;
-  background-image: url("/Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg");
+  background-image: url("Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg");
   background-size: cover;
   margin-top: 1rem;
   margin-bottom: 3rem;
 }
 .box4-image {
   height: 300px;
-  background-image: url("/Fuji_Single_card_Lunar_New_Year_Graphics_1x_EN._SY304_CB585956471_ (1).jpg");
+  background-image: url("Fuji_Single_card_Lunar_New_Year_Graphics_1x_EN._SY304_CB585956471_ (1).jpg");
   background-size:cover;
   margin-top: 1rem;
   margin-bottom:3rem;
 }
 .box5-image {
   height: 220px;
-  background-image: url("/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg");
+  background-image: url("Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg");
   background-size: cover;
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
 .box6-image {
   height: 220px;
-  background-image: url("/XCM_CUTTLE_1546843_2940864_379x304_1X_en_US._SY304_CB613273467_.jpg");
+  background-image: url("XCM_CUTTLE_1546843_2940864_379x304_1X_en_US._SY304_CB613273467_.jpg");
   background-size: cover;
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
 .box7-image{
   height: 300px;
-  background-image:url("/brush_new_.jpg");
+  background-image:url("brush_new_.jpg");
   background-size: cover;
   margin-top:1rem;
   margin-bottom: 1rem;
 }
 .box8-image {
   height: 220px;
-  background-image: url("/XCM_CUTTLE_1622892_3373436_379x304_1X_en_US._SY304_CB597161294_ (1).jpg");
+  background-image: url("XCM_CUTTLE_1622892_3373436_379x304_1X_en_US._SY304_CB597161294_ (1).jpg");
   background-size: cover;
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -249,7 +249,7 @@ ul a{
   align-items:center;
 }
 .logo{
-  background-image:url("/amazon_logo.png");
+  background-image:url("amazon_logo.png");
   background-size:cover;
   height:50px;
   width:100px;
